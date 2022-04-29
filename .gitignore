@@ -6,7 +6,6 @@
 *.tfstate.*
 
 # .tfvars files
-*.tfvars
 
 # .tfplan files
 *.tfplan
@@ -18,5 +17,5 @@
 *.hcl
 
 # working directory for web app
-/globo_web_app/*
+
 
